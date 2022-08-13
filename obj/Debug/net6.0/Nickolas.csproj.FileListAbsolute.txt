@@ -1,0 +1,17 @@
+C:\Users\sarah\OneDrive\Documentos\Nickolas\bin\Debug\net6.0\Nickolas.exe
+C:\Users\sarah\OneDrive\Documentos\Nickolas\bin\Debug\net6.0\Nickolas.deps.json
+C:\Users\sarah\OneDrive\Documentos\Nickolas\bin\Debug\net6.0\Nickolas.runtimeconfig.json
+C:\Users\sarah\OneDrive\Documentos\Nickolas\bin\Debug\net6.0\Nickolas.dll
+C:\Users\sarah\OneDrive\Documentos\Nickolas\bin\Debug\net6.0\Nickolas.pdb
+C:\Users\sarah\OneDrive\Documentos\Nickolas\obj\Debug\net6.0\Nickolas.csproj.AssemblyReference.cache
+C:\Users\sarah\OneDrive\Documentos\Nickolas\obj\Debug\net6.0\Nickolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\OneDrive\Documentos\Nickolas\obj\Debug\net6.0\Nickolas.AssemblyInfoInputs.cache
+C:\Users\sarah\OneDrive\Documentos\Nickolas\obj\Debug\net6.0\Nickolas.AssemblyInfo.cs
+C:\Users\sarah\OneDrive\Documentos\Nickolas\obj\Debug\net6.0\Nickolas.csproj.CoreCompileInputs.cache
+C:\Users\sarah\OneDrive\Documentos\Nickolas\obj\Debug\net6.0\Nickolas.dll
+C:\Users\sarah\OneDrive\Documentos\Nickolas\obj\Debug\net6.0\refint\Nickolas.dll
+C:\Users\sarah\OneDrive\Documentos\Nickolas\obj\Debug\net6.0\Nickolas.pdb
+C:\Users\sarah\OneDrive\Documentos\Nickolas\obj\Debug\net6.0\Nickolas.genruntimeconfig.cache
+C:\Users\sarah\OneDrive\Documentos\Nickolas\obj\Debug\net6.0\ref\Nickolas.dll
+C:\Users\sarah\OneDrive\Documentos\Nickolas\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sarah\OneDrive\Documentos\Nickolas\obj\Debug\net6.0\Nickolas.csproj.CopyComplete
